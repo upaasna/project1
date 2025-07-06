@@ -1,0 +1,111 @@
+.nav-item {
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    
+    padding: 40px;
+    font-weight: bold;
+    font-size: 20px;;
+}
+nav {
+    background-color: rgb(220, 234, 230);
+}
+li:hover {
+    text-decoration: underline;
+    color: blue;
+}
+.card {
+    border: 2px solid gray;
+    height: 250px;
+    width: 450px;
+    padding-top: 20px;
+    border-radius: 15px;
+    
+}
+.continer{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    /* background-color: rgb(220, 234, 230); */
+    text-align: center;
+
+    
+   
+
+}
+.con-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+.content {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.photo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: 50px; 
+     
+}
+.co {
+    margin-right: 400px;
+    margin-top: 20px;
+   
+}
+.section {
+    justify-content: space-between;
+    display: flex;
+
+}
+.imd {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+
+
+}
+.nikul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+.four {
+    text-align: center;
+    margin-top: 200px;
+}
+.im{
+    height: 120px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top : 17px;
+
+}
+.i{
+    height: 40px;
+    width: 35px;
+    border-radius: 50%;
+    margin-left: 15px;
+   
+
+}
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+
+
+}
+.btn {
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    padding: 5px;
+}
